@@ -1,0 +1,11 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+authors = ["Bayu Aldi Yansyah <bayualdiyansyah@gmail.com>"]
+description = "This is hello word program written in Rust"
+documentation = "https://github.com/pyk/hello-rust"
+homepage = "https://github.com/pyk/hello-rust"
+repository = "https://github.com/pyk/hello-rust"
+readme = "README.md"
+keywords = ["hello-rust"]
+license = "Apache-2.0"
